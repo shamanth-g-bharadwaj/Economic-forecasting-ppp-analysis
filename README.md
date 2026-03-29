@@ -93,3 +93,6 @@ The project followed a structured forecasting workflow:
 - **statsmodels**
 - **NumPy**
 - **Jupyter Notebook**
+
+## License
+This project is intended for academic and educational use.
